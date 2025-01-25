@@ -1,22 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 
@@ -30,8 +11,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [LeonardoAI](https://app.leonardo.ai/)
+- [PowerPoint](https://pt-br.libreoffice.org/)
 
 ## 🧠 Prompts
 
@@ -43,7 +24,7 @@ ChatGPT：
 |  título  | Crie um título de ebook com dicas de atalhos e fórmulas do EXCEL para iniciantes que querem aprender a usar essa ferramenta. O título deve ser chamativo, atual e com a temática "resolva sozinho". Liste 5 variações de títulos.|
 | resultado | Resolva no Excel: O Guia Simplificado de Atalhos e Fórmulas Para Iniciantes |
 | conteúdo | Faça um texto para ebook listando as principais dicas de atalhos e fórmulas simples mais usadas no EXCEL para iniciantes.  Explique sempre de maneira simples e didática, usando exemplos e se possível imagens das aplicações práticas. Sempre deixe um título sugestivo por tópico |
-
+[resultado] 
 
 Leonardo AI：
 
@@ -54,40 +35,8 @@ Leonardo AI：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens geradas via LeonardoAI
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
