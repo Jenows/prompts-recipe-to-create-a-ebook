@@ -20,9 +20,9 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -40,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de ebook com dicas de atalhos e fórmulas do EXCEL para iniciantes que querem aprender a usar essa ferramenta. O título deve ser chamativo, atual e com a temática "resolva sozinho". Liste 5 variações de títulos.|
+| resultado | Resolva no Excel: O Guia Simplificado de Atalhos e Fórmulas Para Iniciantes |
+| conteúdo | Faça um texto para ebook listando as principais dicas de atalhos e fórmulas simples mais usadas no EXCEL para iniciantes.  Explique sempre de maneira simples e didática, usando exemplos e se possível imagens das aplicações práticas. Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a man teatcher using glasses and holding a symbol of excel in your hands and surrounded by numbers, sequences and formulas in a white background |
 
 ## ✨ Features
 
